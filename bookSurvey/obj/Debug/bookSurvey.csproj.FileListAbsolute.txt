@@ -1,0 +1,7 @@
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\bin\Debug\bookSurvey.exe.config
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\bin\Debug\bookSurvey.exe
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\bin\Debug\bookSurvey.pdb
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\obj\Debug\bookSurvey.csprojResolveAssemblyReference.cache
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\obj\Debug\bookSurvey.csproj.CoreCompileInputs.cache
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\obj\Debug\bookSurvey.exe
+c:\users\drepr\source\repos\bookSurvey\bookSurvey\obj\Debug\bookSurvey.pdb
